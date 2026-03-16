@@ -1,0 +1,1 @@
+# AI Resistant Captcha\n\nThis project contains an AI-resistant captcha system with frontend, backend, and AI service components.
